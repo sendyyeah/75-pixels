@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name nix-logo)(type KiCad)(uri E:/Projects/OXALYS80-PCB/nix-logo)(options "")(descr ""))
+)
